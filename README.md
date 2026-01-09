@@ -34,11 +34,11 @@ O programa exibe os dados carregados em um ALV grid. Foi implementada lógica pa
 
 ## 🚀 Próximos Passos e Evolução
 
-Atualmente, o código está estruturado no paradigma procedural. O roadmap de evolução deste projeto inclui:
+Atualmente, o código está estruturado no paradigma procedural. O roadmap de evolução, para fins de aprendizado, deste projeto inclui:
 
 1.  **Refatoração para ABAP OO:** Reescrever a solução utilizando classes e métodos para melhor encapsulamento.
 2.  **Estudos em RAP e Clean Core:** Compreender como adaptar essa lógica de carga para o modelo RESTful Application Programming (RAP).
 3.  **Integração (CPI):** Analisar como fluxos de integração podem substituir a carga manual de arquivos para cenários automatizados.
 
 ---
-*Desenvolvido por [Seu Nome]*
+*Desenvolvido por Breno Moura*
